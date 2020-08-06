@@ -69,7 +69,7 @@ As entregas do projeto estão distribuidas em 6 entregas que serão feitas ao lo
 
 - <a href='https://github.com/justhenrique/SPC-projeto-integrador/tree/master/Entrega%205'>Entrega 5</a> - 22/06/2020 a 26/06/2020
 
-- <a href='...'>Entrega 6</a> - 06/07/2020 a 10/07/2020
+- <a href='https://github.com/MatheusCampos-450/SPC-projeto-integrador/tree/master/Entrega%206%20Final'>Entrega 6</a> - 06/07/2020 a 10/07/2020
 
 
 ## Ferramentas utilizadas
